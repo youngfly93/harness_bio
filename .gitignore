@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# 运行时产物
+validation_log.txt
+audit_result.json
+*.zip
+*.zip.md5
+
+# Codex 交叉验证临时文件
+.codex_method_review.txt
+.codex_figure_review.txt
+
+# 编辑器
+.vscode/
+.idea/

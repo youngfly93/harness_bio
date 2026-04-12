@@ -1,0 +1,12 @@
+# 数值参考表（源数据标准值）
+# key	value
+sample_total	12
+sample_hf	6
+sample_ctrl	6
+gene_total	3
+deg_up	1
+deg_down	1
+deg_threshold_fc	1
+deg_threshold_padj	0.05
+go_sig_terms	2
+kegg_sig_terms	2

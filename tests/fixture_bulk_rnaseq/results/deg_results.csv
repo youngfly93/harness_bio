@@ -1,0 +1,4 @@
+gene_id,log2FoldChange,padj,baseMean,pvalue
+GENE001,1.45,0.001,95.2,0.0002
+GENE002,-1.22,0.003,148.5,0.0008
+GENE003,0.05,0.92,305.3,0.85
