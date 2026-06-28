@@ -1,4 +1,10 @@
-# harness_bio
+# harness_bio （已退役 · 只读归档）
+
+> 🪦 **本仓库已退役（2026-06-28），归档为只读，不再维护。**
+> 它的能力已并入并由 **[`claude-bioinfo-config`](https://github.com/youngfly93/claude-bioinfo-config)** 的 `harness/` 继续演进——那里是生信交付 harness 的唯一真源（含本仓库后续新增的 `proof.py` / `structure_check.py` / 全套 `*_validator.py` 等）。
+> 本仓库独有而新真源缺失的契约（`known_issues.md`、审计 schema、`loop.md`、`fig_review.md`）已抢救过去。本处仅保留历史与回归测试记录。
+
+---
 
 **给定一个生信分析需求，AI Agent 能保质保量完成分析并直接交付客户的工程治具。**
 
